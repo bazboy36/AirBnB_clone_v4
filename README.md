@@ -157,6 +157,3 @@ No known bugs at this time.
 Deborah Ajayi - [Github](https://github.com/speak2debby) / [Twitter](https://twitter.com/Adeajayi_Deb)  
 Abdulmuizz Hamzat - [Github](https://github.com/Abdulmuizz983) / [Twitter](https://twitter.com/)  
 
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
